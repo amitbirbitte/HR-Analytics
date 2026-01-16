@@ -34,6 +34,10 @@ It analyzes employee demographics, hiring trends, gender distribution, diversity
 
 
 ## 📊 Dashboard Preview
+## 📊 Dashboard Preview
+
+![HR Analytics Dashboard](Screenshots/dashboard.png)
+
 
 
 ## 🔍 Key Insights
